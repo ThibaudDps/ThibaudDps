@@ -1,5 +1,5 @@
-<h2 align="center">👋🏻  Welcome into my den !</h2>
-<h2 align="center">💻 Full Stack Dev Junior & Graphic Designer 🎨</h2>
+<h2 align="center">👋🏻 Welcome, I'm Thibaud!</h2>
+<h3 align="center">💻 Full Stack Dev Junior & Graphic Designer 🎨</h3>
 
 <h3 align="center">🔭 Actively looking for an apprenticeship for February 2024</h3>
 
