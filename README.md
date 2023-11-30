@@ -4,19 +4,19 @@
 <h3 align="center">🔭 Actively looking for an apprenticeship for February 2024</h3>
 
 <p align="center"><a href="https://linkedin.com/in/thibauddupuis" target="blank"><img src="https://img.shields.io/badge/-Linkedin-0A66C2?logo=linkedin&logoColor=white&style=flat"/></a>
-<br/><br/>
+<br/>
 
 <h4 align="center"> 🌱 Happy Full Stack Developer Student @</h4>
 
  <p align="center"><a href="https://www.wildcodeschool.com/" target="_blank" rel="noreferrer">
 <img src="https://img.shields.io/badge/-Wild_Code_School-F2F2F2.svg?logo=data:image/png;base64,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&logoColor=E60074&style=flat"/> </a><br/>
-
- <br/>
+<h2></h2>
  <h4 align="center">My Works</h4>
  <p align="center"><a href="https://www.dupuisthibaud.com/" target="_blank" rel="noreferrer">
 <img src="https://img.shields.io/badge/-My_Portfolio-000000.svg?logo=data:image/png;base64,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"/></a>
 <a href="https://instagram.com/tfordesign" target="blank"><img src="https://img.shields.io/badge/-Instagram-E4405F?logo=instagram&logoColor=white&style=flat"/></a>
 <a href="https://www.behance.net/dupuisthibaud" target="blank"><img src="https://img.shields.io/badge/-Béhance-1769FF?logo=behance&logoColor=white&style=flat"/></a>
+<h2></h2>
 
 <h4 align="center">Languages</h4>
 <p align="center"> 
@@ -28,7 +28,7 @@
 
    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
     <img src="https://img.shields.io/badge/-Javascript-F7DF1E?logo=javascript&logoColor=white&style=flat"/></a>
-
+<h2></h2>
 <h4 align="center">Frameworks</h4>
 <p align="center"> 
 
@@ -40,7 +40,7 @@
   <a href="https://expressjs.com" target="_blank" rel="noreferrer"> 
    <img src="https://img.shields.io/badge/-Express.Js-000000?logo=express&logoColor=white&style=flat"/> </a>
 
-<br/>
+<h2></h2>
 
 <h4 align="center">Back-end</h4>
 <p align="center"> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
@@ -49,7 +49,7 @@
 <a href="https://nodejs.org" target="_blank" rel="noreferrer"> 
        <img src="https://img.shields.io/badge/-Node.Js-339933?logo=node.js&logoColor=white&style=flat"/></a>
 
-<br/>
+<h2></h2>
 
 <h4 align="center">Softwares</h4>
 <p align="center"> 
@@ -83,7 +83,7 @@
  <a href="https://postman.com" target="_blank" rel="noreferrer"> 
  <img src="https://img.shields.io/badge/-Postman-FF6C37?logo=postman&logoColor=white&style=flat"/></a>  
 
-<br/>
+<h2></h2>
 
 <h4 align="center">Hobbies</h4>
 <p align="center"><a href="https://www.youtube.com/watch?v=jAnp1j6xD4o&t=1305s" target="_blank" rel="noreferrer">
