@@ -30,10 +30,10 @@
     <img src="https://img.shields.io/badge/-ReactJs-61DAFB?logo=react&logoColor=white&style=flat"/></a>
 
 <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> 
-      <img src="https://img.shields.io/badge/-HTML5-E34F26?logo=html&logoColor=white&style=flat"/> </a> 
+      <img src="https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white&style=flat"/> </a> 
 
 <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> 
-  <img src="https://img.shields.io/badge/-CSS3-1572B6?logo=css&logoColor=white&style=flat"/> </a> 
+  <img src="https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white&style=flat"/> </a> 
 
   
   <a href="https://expressjs.com" target="_blank" rel="noreferrer"> 
@@ -45,11 +45,19 @@
 <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer">
 <img src="https://img.shields.io/badge/-Illustrator-FF9A00?logo=adobeillustrator&logoColor=white&style=flat"/> </a> 
       
-      <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> 
-      <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a>
-       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a>  
-       <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
-      <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
+<a href="https://www.figma.com/" target="_blank" rel="noreferrer"> 
+      <img src="https://img.shields.io/badge/-Figma-F24E1E?logo=figma&logoColor=white&style=flat"/> </a>
+      <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
+<img src="https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white&style=flat"/> </a> 
+       
+<a href="https://nodejs.org" target="_blank" rel="noreferrer"> 
+       <img src="https://img.shields.io/badge/-Node.Js-339933?logo=node.js&logoColor=white&style=flat"/></a>
+      
+ <a href="https://postman.com" target="_blank" rel="noreferrer"> 
+ <img src="https://img.shields.io/badge/-Postman-FF6C37?logo=postman&logoColor=white&style=flat"/></a>  
+ 
+<a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
+      <img src="https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=flat"/></a>  
 
 <br/><br/>
 
