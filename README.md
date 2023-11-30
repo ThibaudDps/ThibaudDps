@@ -12,7 +12,9 @@
 
 - 👁‍🗨 J'ai un recueil de mes précédents travaux de graphiste <br/>[Mon site](https://www.dupuisthibaud.com/)
 
-- 🎵 À côté, je fais de la musique très fort<br/> [Mon projet "Pines Alley 29"](https://linktr.ee/pinesalley29)
+- 🎵 À côté, je fais de la musique très fort<br/>
+<a href="https://open.spotify.com/intl-fr/artist/73hJbjWeW0ljdovUghKOhA?si=R3_NhKppTjWBQf5xv-kXEA" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/-Pines Alley 29-000000?logo=spotify&logoColor=white&style=flat"/></a>
 
 - 📫 On rentre en contact ? <br/>[Linkedin](https://www.linkedin.com/in/thibauddupuis/)
 
@@ -43,11 +45,23 @@
        <img src="https://img.shields.io/badge/-Photoshop-31A8FF?logo=adobephotoshop&logoColor=white&style=flat"/> </a> 
      
 <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer">
-<img src="https://img.shields.io/badge/-Illustrator-FF9A00?logo=adobeillustrator&logoColor=white&style=flat"/> </a> 
-      
+<img src="https://img.shields.io/badge/-Illustrator-FF9A00?logo=adobeillustrator&logoColor=white&style=flat"/> </a>
+
+<a href="https://www.adobe.com/in/products/indesign.html" target="_blank" rel="noreferrer">
+<img src="https://img.shields.io/badge/-InDesign-FF3366?logo=adobeindesign&logoColor=white&style=flat"/> </a> 
+
+<a href="https://www.adobe.com/in/products/premiere.html" target="_blank" rel="noreferrer">
+<img src="https://img.shields.io/badge/-Premiere-9999FF?logo=adobepremierepro&logoColor=white&style=flat"/> </a>
+
 <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> 
       <img src="https://img.shields.io/badge/-Figma-F24E1E?logo=figma&logoColor=white&style=flat"/> </a>
-      <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
+
+<a href="https://www.canva.me/" target="_blank" rel="noreferrer"> 
+      <img src="https://img.shields.io/badge/-Canva-00C4CC?logo=canva&logoColor=white&style=flat"/> </a>
+
+      
+      
+<a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
 <img src="https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white&style=flat"/> </a> 
        
 <a href="https://nodejs.org" target="_blank" rel="noreferrer"> 
@@ -55,6 +69,9 @@
       
  <a href="https://postman.com" target="_blank" rel="noreferrer"> 
  <img src="https://img.shields.io/badge/-Postman-FF6C37?logo=postman&logoColor=white&style=flat"/></a>  
+
+<a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"> 
+      <img src="https://img.shields.io/badge/-Visual%20Studio%20Code-007ACC?logo=visualstudiocode&logoColor=white&style=flat"/></a>
  
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
       <img src="https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=flat"/></a>  
@@ -63,10 +80,10 @@
 
 <h3 align="center">Mes Réseaux</h3><br/>
 <p align="center">
-<a href="https://linkedin.com/in/thibauddupuis" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="thibauddupuis" height="30" width="40" /></a>
-<a href="https://instagram.com/tfordesign" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="tfordesign" height="30" width="40" /></a>
-<a href="https://www.behance.net/dupuisthibaud" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="dupuisthibaud" height="30" width="40" /></a>
-<a href="https://discord.gg/imseye" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="imseye" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/thibauddupuis" target="blank"><img src="https://img.shields.io/badge/-Linkedin-0A66C2?logo=linkedin&logoColor=white&style=flat"/></a>
+<a href="https://instagram.com/tfordesign" target="blank"><img src="https://img.shields.io/badge/-Instagram-E4405F?logo=instagram&logoColor=white&style=flat"/></a>
+<a href="https://www.behance.net/dupuisthibaud" target="blank"><img src="https://img.shields.io/badge/-Béhance-1769FF?logo=behance&logoColor=white&style=flat"/></a>
+<a href="https://discord.gg/imseye" target="blank"><img src="https://img.shields.io/badge/-Discord-5865F2?logo=discord&logoColor=white&style=flat"/></a>
 </p>
 
 <br/>
