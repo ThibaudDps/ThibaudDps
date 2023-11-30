@@ -47,8 +47,9 @@
 <img src="https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white&style=flat"/> </a> 
        
 <a href="https://nodejs.org" target="_blank" rel="noreferrer"> 
-       <img src="https://img.shields.io/badge/-Node.Js-339933?logo=node.js&logoColor=white&style=flat"/></a>
-
+       <img src="https://img.shields.io/badge/-Node.Js-339933?logo=node.js&logoColor=white&style=flat"/></a> 
+<a href="https://vitejs.dev/" target="_blank" rel="noreferrer"> 
+       <img src="https://img.shields.io/badge/-Vite.Js-646CFF?logo=vite&logoColor=white&style=flat"/></a>
 <h2></h2>
 
 <h4 align="center">Softwares</h4>
@@ -57,9 +58,20 @@
 <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"> 
       <img src="https://img.shields.io/badge/-Visual%20Studio%20Code-007ACC?logo=visualstudiocode&logoColor=white&style=flat"/></a>
 
-       
+<a href="https://prettier.io/" target="_blank" rel="noreferrer"> 
+      <img src="https://img.shields.io/badge/-Prettier-F7B93E?logo=prettier&logoColor=white&style=flat"/></a>
+      
+<a href="https://eslint.org/" target="_blank" rel="noreferrer"> 
+      <img src="https://img.shields.io/badge/-ESLint-4B32C3?logo=eslint&logoColor=white&style=flat"/></a>
+
+<a href="https://apps.microsoft.com/detail/9N0DX20HK701?hl=fr-FR&gl=US" target="_blank" rel="noreferrer"> 
+      <img src="https://img.shields.io/badge/-Terminal-4D4D4D?logo=windowsterminal&logoColor=white&style=flat"/></a>
+      
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
       <img src="https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=flat"/></a>  
+      
+ <a href="https://postman.com" target="_blank" rel="noreferrer"> 
+ <img src="https://img.shields.io/badge/-Postman-FF6C37?logo=postman&logoColor=white&style=flat"/></a>  <br/>
 
  <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> 
        <img src="https://img.shields.io/badge/-Photoshop-31A8FF?logo=adobephotoshop&logoColor=white&style=flat"/> </a> 
@@ -79,9 +91,6 @@
 <a href="https://www.canva.me/" target="_blank" rel="noreferrer"> 
       <img src="https://img.shields.io/badge/-Canva-00C4CC?logo=canva&logoColor=white&style=flat"/> </a>
 
-      
- <a href="https://postman.com" target="_blank" rel="noreferrer"> 
- <img src="https://img.shields.io/badge/-Postman-FF6C37?logo=postman&logoColor=white&style=flat"/></a>  
 
 <h2></h2>
 
