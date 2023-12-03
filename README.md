@@ -68,7 +68,10 @@
       <img src="https://img.shields.io/badge/-Terminal-4D4D4D?logo=windowsterminal&logoColor=white&style=flat"/></a>
       
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
-      <img src="https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=flat"/></a>  
+      <img src="https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=flat"/></a> 
+
+<a href="https://wordpress.com/" target="_blank" rel="noreferrer"> 
+      <img src="https://img.shields.io/badge/-Wordpress-21759B?logo=wordpress&logoColor=white&style=flat"/></a>  
       
  <a href="https://postman.com" target="_blank" rel="noreferrer"> 
  <img src="https://img.shields.io/badge/-Postman-FF6C37?logo=postman&logoColor=white&style=flat"/></a>  <br/>
