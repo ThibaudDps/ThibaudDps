@@ -100,6 +100,12 @@
 <a href="https://www.canva.me/" target="_blank" rel="noreferrer"> 
       <img src="https://img.shields.io/badge/-Canva-00C4CC?logo=canva&logoColor=white&style=flat"/> </a>
 
+<a href="https://www.trello.com/" target="_blank" rel="noreferrer"> 
+      <img src="https://img.shields.io/badge/-Trello-0052CC?logo=trello&logoColor=white&style=flat"/> </a>
+
+<a href="https://www.obsidian.md/" target="_blank" rel="noreferrer"> 
+      <img src="https://img.shields.io/badge/-Obsidian-7C3AED?logo=obsidian&logoColor=white&style=flat"/> </a>
+
 
 <h2></h2>
 
