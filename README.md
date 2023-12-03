@@ -68,7 +68,7 @@
       <img src="https://img.shields.io/badge/-npm-CB3837?logo=npm&logoColor=white&style=flat"/></a>
 
 <a href="https://reactrouter.com/" target="_blank" rel="noreferrer"> 
-      <img src="https://img.shields.io/badge/-npm-CA4245?logo=reactrouter&logoColor=white&style=flat"/></a>
+      <img src="https://img.shields.io/badge/-react_router-CA4245?logo=reactrouter&logoColor=white&style=flat"/></a>
 
 <a href="https://apps.microsoft.com/detail/9N0DX20HK701?hl=fr-FR&gl=US" target="_blank" rel="noreferrer"> 
       <img src="https://img.shields.io/badge/-Terminal-4D4D4D?logo=windowsterminal&logoColor=white&style=flat"/></a>
