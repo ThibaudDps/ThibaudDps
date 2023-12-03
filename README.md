@@ -52,7 +52,7 @@
        <img src="https://img.shields.io/badge/-Vite.Js-646CFF?logo=vite&logoColor=white&style=flat"/></a>
 <h2></h2>
 
-<h4 align="center">Softwares</h4>
+<h4 align="center">Softwares & Tech</h4>
 <p align="center"> 
 
 <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"> 
@@ -63,6 +63,11 @@
       
 <a href="https://eslint.org/" target="_blank" rel="noreferrer"> 
       <img src="https://img.shields.io/badge/-ESLint-4B32C3?logo=eslint&logoColor=white&style=flat"/></a>
+
+<a href="https://www.npmjs.com//" target="_blank" rel="noreferrer"> 
+      <img src="https://img.shields.io/badge/-npm-CB3837?logo=npm&logoColor=white&style=flat"/></a>
+
+
 
 <a href="https://apps.microsoft.com/detail/9N0DX20HK701?hl=fr-FR&gl=US" target="_blank" rel="noreferrer"> 
       <img src="https://img.shields.io/badge/-Terminal-4D4D4D?logo=windowsterminal&logoColor=white&style=flat"/></a>
