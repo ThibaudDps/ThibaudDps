@@ -1,7 +1,6 @@
 <h2 align="center">👋🏻 Welcome, I'm Thibaud!</h2>
 <h3 align="center">💻 Full Stack Dev Junior & Graphic Designer 🎨</h3>
 
-<h3 align="center">🔭 Actively looking for an apprenticeship for February 2024</h3>
 
 <p align="center"><a href="https://linkedin.com/in/thibauddupuis" target="blank"><img src="https://img.shields.io/badge/-Linkedin-0A66C2?logo=linkedin&logoColor=white&style=flat"/></a>
 <br/>
